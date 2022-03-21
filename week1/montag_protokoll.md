@@ -1,1 +1,3 @@
-Das ist die erste Zeilte Protokoll.
+Das ist die erste Zeile Protokoll.
+
+Und das ist die Zweite.
