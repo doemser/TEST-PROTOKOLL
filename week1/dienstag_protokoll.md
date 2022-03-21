@@ -1,1 +1,1 @@
-Das ist ein neues Protokoll
+Was anderes
